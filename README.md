@@ -1,3 +1,5 @@
+Task: RNN for Learning Addition via Generated Text
+
 Packages: Numpy, Tensorflow
 
 Model: Simple RNN
